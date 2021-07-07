@@ -1,6 +1,6 @@
 # Hey, I'm @EnMod!
 
-I connect to create. Websites, writing, audio, games.
+I connect to create: websites, writing, audio, games.
 
 ### Which websites?
 
