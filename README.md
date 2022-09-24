@@ -12,7 +12,7 @@ Poetry, prose, the occasional review, and other musings on my blog, which is und
 
 ### What audio?
 
-[Game soundtracks](https://soundcloud.com/cadenceevinced/the-labyrinthine-night-main-theme) and [music experiments](https://soundcloud.com/cadenceevinced/night-of-fate-inspired). Obligatory "check out [my Soundcloud](https://soundcloud.com/cadenceevinced)"
+[Game soundtracks](https://soundcloud.com/cadenceevinced/the-labyrinthine-night-main-theme) and [music experiments](https://soundcloud.com/cadenceevinced/night-of-fate-inspired). And uhh...[my Soundcloud](https://soundcloud.com/cadenceevinced)
 
 ### Which games?
 
