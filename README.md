@@ -12,11 +12,11 @@ Poetry, prose, the occasional review, and other musings on my blog, which is und
 
 ### What audio?
 
-[Game soundtracks](https://soundcloud.com/cadenceevinced/the-labyrinthine-night-main-theme) and [music experiments](https://soundcloud.com/cadenceevinced/night-of-fate-inspired). And uhh...[my Soundcloud](https://soundcloud.com/cadenceevinced)
+[Game soundtracks](https://soundcloud.com/euphonyinphase/the-labyrinthine-night-main-theme) and [music experiments](https://soundcloud.com/euphonyinphase/night-of-fate-inspired). And uhh...[my Soundcloud](https://soundcloud.com/euphonyinphase)
 
 ### Which games?
 
-[Survival horrors (ish)](https://enmodgames.itch.io/the-labyrinthine-night), [text adventures](https://enmodgames.itch.io/the-sieve-and-the-siphon), [minigame marathons](https://enmodgames.itch.io/school-years).  Going to be adding beat-em-ups to [my repetoire](https://enmodgames.itch.io) very soon!
+[Survival horrors (ish)](https://memoirs-mythos.itch.io/the-labyrinthine-night), [text adventures](https://memoirs-mythos.itch.io/the-sieve-and-the-siphon), [minigame marathons](https://memoirs-mythos.itch.io/school-years).  Going to be adding beat-em-ups to [my repetoire](https://memoirs-mythos.itch.io) very soon!
 
 ---
 
