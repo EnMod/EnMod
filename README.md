@@ -16,7 +16,7 @@ Poetry, prose, the occasional review, and other musings on my blog, which is und
 
 ### Which games?
 
-[Survival horrors (ish)](https://memoirs-mythos.itch.io/the-labyrinthine-night), [text adventures](https://memoirs-mythos.itch.io/the-sieve-and-the-siphon), [minigame marathons](https://memoirs-mythos.itch.io/school-years).  Going to be adding beat-em-ups to [my repetoire](https://memoirs-mythos.itch.io) very soon!
+[Survival horrors (ish)](https://memoirs-mythos.itch.io/the-labyrinthine-night), [text adventures](https://memoirs-mythos.itch.io/the-sieve-and-the-siphon), [minigame marathons](https://memoirs-mythos.itch.io/school-years).  I will be adding beat-em-ups to [my repetoire](https://memoirs-mythos.itch.io) very soon!
 
 ---
 
