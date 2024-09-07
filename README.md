@@ -4,7 +4,7 @@ I connect to create: websites, writing, audio, games.
 
 ### Which websites?
 
-[Portfolio websites](https://melissadeleon.me), [landing pages](https://noelquiles.com), Vue sites, React sites. Also Svelte sites soon, my [landing page's Svelte refactor](https://github.com/EnMod/noel-quiles-www/tree/svelte-experiment) being the first!
+[Portfolio websites](https://melissadeleon.me), [landing pages](https://noelquiles.com), Vue sites, React sites. Also Svelte sites soon, my [personal site's Svelte refactor](https://github.com/EnMod/noel-quiles-www/tree/svelte-experiment) being the first!
 
 ### What writing?
 
